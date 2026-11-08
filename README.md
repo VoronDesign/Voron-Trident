@@ -1,9 +1,13 @@
 # Voron Trident
-**[CLICK HERE TO DOWNLOAD](https://voron.zip/done/VT.zip)**
 
-The above link includes the stealthburner toolhead files which are compatible with several of the printers in the Voron lineup. 
-To keep things organized, StealthBurner’s files are maintained separately. 
-the Stealthburner Repository can be browsed by clicking [HERE](https://github.com/VoronDesign/Voron-Stealthburner)
+### Download the STLs
+
+[![Download with Stealthburner and the stock carriage](https://img.shields.io/badge/Download%20with-Stealthburner%20%2B%20stock%20carriage-e3342b?style=for-the-badge)](https://voron.zip/done/VT.zip)
+[![Download with Stealthburner and Chariot](https://img.shields.io/badge/Download%20with-Stealthburner%20%2B%20Chariot-e3342b?style=for-the-badge)](https://voron.zip/done/VT-chariot.zip)
+[![Download with DownDraft and the stock carriage](https://img.shields.io/badge/Download%20with-DownDraft%20%2B%20stock%20carriage-e3342b?style=for-the-badge)](https://voron.zip/done/VT-downdraft.zip)
+[![Download with DownDraft and Chariot](https://img.shields.io/badge/Download%20with-DownDraft%20%2B%20Chariot-e3342b?style=for-the-badge)](https://voron.zip/done/VT-downdraft-chariot.zip)
+
+Older releases, single parts and a 3D preview: **[voron.zip](https://voron.zip/#m=trident)**
 
 ![Image of Voron Trident](voron_trident_SB.png)
 
